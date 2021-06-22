@@ -51,15 +51,15 @@ Many children’s summer camps these days have confusing registration, a ton of 
 
 - As a camper:
 
-![Alt Text](client/dist/camper.gif)
+![camper](https://user-images.githubusercontent.com/72538359/122873350-8031f200-d2e6-11eb-9e59-15b60959fe3c.gif)
 
 - As a parent:
 
-![Alt Text](client/dist/parent.gif)
+![parent](https://user-images.githubusercontent.com/72538359/122873559-c38c6080-d2e6-11eb-832d-3e30018361ff.gif)
 
 - As a counselor:
 
-![Alt Text](client/dist/counselor4.gif)
+![counselor4](https://user-images.githubusercontent.com/72538359/122873571-c5562400-d2e6-11eb-8a1f-5469053c8504.gif)
 
 # User Stories
 - As a Parent:
